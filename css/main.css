@@ -1,0 +1,36 @@
+.video-box {
+  width: 100%;
+  margin: 0 auto 2rem;
+  display: flex;
+}
+ video {
+   max-width: 50em;
+   display: block;
+   margin: auto;
+ }
+
+body {
+  color: #0a0026;
+  text-align: center;
+  margin: 0;
+}
+
+.gutter {
+  margin: 0 1rem;
+}
+
+h1 {
+  color: #5c1be8;
+}
+
+p {
+  max-width: 32em;
+  display: block;
+  width: 100%;
+  margin: 1rem auto 0;
+}
+
+footer p {
+  margin: 5rem auto;
+  font-size: 0.8rem;
+}
