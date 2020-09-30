@@ -38,6 +38,7 @@ header {
 
 h1 {
   margin: 2rem 1rem 0;
+  color: #5c1be8;
 }
 
 main {
@@ -68,7 +69,11 @@ div {
 }
 
 footer {
-  margin: 2rem auto;
-  font-size: .8rem;
+  margin: 2rem auto 1rem;
+  font-size: .75rem;
   grid-area: footer;
+}
+
+footer p {
+  margin: 0;
 }
