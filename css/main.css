@@ -58,7 +58,7 @@ video {
   max-width: 40rem;
 }
 
-div {
+.text {
   grid-area: text;
   margin: 0 auto 1rem;
 }
