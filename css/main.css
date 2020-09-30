@@ -47,10 +47,14 @@ main {
   display: contents;
 }
 
+.video {
+  grid-area: video;
+  display: flex;
+}
+
 video {
   width: 100%;
   margin: 0 auto 2rem;
-  grid-area: video;
   max-width: 40rem;
 }
 
