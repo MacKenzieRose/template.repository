@@ -2,6 +2,8 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
+  background-color: #fff;
+  color: #0a0026;
 
   @-moz-viewport { width: device-width; scale: 1; }
   @-ms-viewport { width: device-width; scale: 1; }
