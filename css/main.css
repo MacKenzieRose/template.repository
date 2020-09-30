@@ -27,10 +27,10 @@ body {
   max-width: 60em;
   display: grid;
   grid-template-areas:
-  "header header"
-  "video video"
-  "text text"
-  "footer footer";
+  "header"
+  "video"
+  "text"
+  "footer";
   gap: 1rem;
 }
 
@@ -49,7 +49,8 @@ main {
 
 .video {
   grid-area: video;
-  display: flex;
+  display: block;
+  text-align: center;
 }
 
 video {
