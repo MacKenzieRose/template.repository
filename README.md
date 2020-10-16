@@ -4,7 +4,7 @@
 
 [](photo.jpg)
 
-Hi! I'm MacKenzie.
+##**Hi! I'm MacKenzie.**
 
 I’m a graphic designer currently based in Ottawa. 
 
