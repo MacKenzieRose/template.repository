@@ -1,6 +1,4 @@
-# MK Design
-
-#### [MK Design](http://kenzie.design)
+# [MK Design](http://kenzie.design)
 
 [](photo.jpg)
 
