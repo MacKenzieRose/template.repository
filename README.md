@@ -1,6 +1,6 @@
 # MK Design
 
-#### [ > kenzie.design](http://kenzie.design)
+#### [MK Design](http://kenzie.design)
 
 [](photo.jpg)
 
@@ -14,5 +14,5 @@ When I’m not designing, you can find me reading, hiking, and learning new lang
 
 Let’s make something wonderful together! 
 
-- **[hello@kenzie.design](mailto:hello@kenzie.design)**
+**[hello@kenzie.design](mailto:hello@kenzie.design)**
 
