@@ -1,0 +1,23 @@
+.project-card > div {
+	border-bottom: 10px solid var(--color-accent);
+}
+
+.project-label {
+	background-color: var(--color-accent);
+	bottom: -10em;
+	width: 100%;
+	color: var(--color-accent);
+	transition: all .4s ease-out;
+}
+
+.project-label h3 {
+	padding-top: 1.5em;
+}
+
+.project-card:hover .project-label,
+.project-card:focus .project-label {
+	bottom: 0;
+	width: 100%;
+	color: var(--color-primary);
+	transition: all .3s ease;
+}

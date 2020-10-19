@@ -1,0 +1,10 @@
+title: "Cards"
+description: |
+  Cards serve to quickly and easily organize information for users to parse. Examples of this include the standard layout for case studies.
+
+patterns: 
+  project:
+    title: "Project"
+    description: |
+      The main site card, used to visually organize case studies on the site homepage.
+    width: "20em"
