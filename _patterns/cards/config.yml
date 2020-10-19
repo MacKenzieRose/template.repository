@@ -8,3 +8,8 @@ patterns:
     description: |
       The main site card, used to visually organize case studies on the site homepage.
     width: "20em"
+  missing:
+    title: "404"
+    description: |
+      The "content not found" card, used as a dynamic placeholder for website pages that are still under development.
+    width: "20em"
