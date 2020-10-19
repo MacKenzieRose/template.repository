@@ -1,0 +1,51 @@
+/* Button default styles */
+.btn {
+	border-radius: var(--border-radius);
+	border: 2px solid var(--color-accent);
+	background-color: var(--color-accent);
+}
+
+.btn-ghost {
+	border-color: var(--color-secondary);
+	background-color: transparent;
+	color: var(--color-secondary);
+}
+
+.btn-link {
+	background-color: transparent;
+	border: none;
+	color: var(--color-secondary);
+}
+
+/* This works because of related SVG code in theme.css file */
+.icon-link {
+  color: var(--color-secondary);
+}
+
+/* Button hover/focus state styles */
+
+.btn:hover,
+.btn:focus {
+	background-color: var(--color-hover);
+	border-color: var(--color-hover);
+}
+
+.btn-ghost:hover,
+.btn-ghost:focus {
+	background-color: transparent;
+	border-color: var(--color-hover);
+	color: var(--color-hover);
+}
+
+.btn-link:hover,
+.btn-link:focus {
+	background-color: transparent;
+	border: none;
+	color: var(--color-hover);
+	text-decoration: underline;
+}
+
+.icon-link:hover,
+.icon-link:focus {
+  color: var(--color-hover);
+}
