@@ -1,3 +1,32 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  title: "MK Design"
+  description: |
+    Welcome to MK Design; I’m MacKenzie. I create user experiences, informed SNS marketing solutions, and strategic brands that spark joy. Let’s make something together!
+
+  colors:
+    background: "--color-primary"
+    accent: "--color-accent"
+    sidebar: "--color-primary-dark"
+
+  rationales:
+    colors.primary: |
+      White serves as the default site colour for the light-mode backgrounds, which is interchangeable with its dark-mode counterpart. These solid colours provide high-contrast bases which support extremely readable text content.
+    colors.primary: |
+      These colours serve to form the default text colours, and are the inverse of the primary colour schemes found above.
+    colors.accent: |
+      These colors serve different functions:
+
+
+      Accent is used to draw attention to the most critical components on site pages, including important calls-to-action, headers, and navigation components.
+
+
+      Hover is used to indicate what selection on a page the mouse is hovering on, or which is tab-selected by keyboard.
+
+
+      Error is used to visually differentiate sections of a site that require user attention, including form errors.
+    typefaces.primary: |
+      The primary font for this site needed to be professional, clean, and reflective of standard practices in the digital sector. Thus, Helvetica was selected as the default font, due to its readability, its pervasiveness in technology, and its efficiency in terms of loading times.
