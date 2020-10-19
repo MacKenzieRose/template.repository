@@ -37,8 +37,21 @@ a {
 	transition: all .4s ease-out;
 }
 
+nav a {
+	color: var(--color-secondary);
+	text-decoration: none;
+}
+
+.current a {
+	color: var(--color-accent);
+	font-weight: bold;
+	transition: all .4s ease-out;
+}
+
 a:hover,
-a:focus {
+a:focus,
+nav a:hover,
+nav a:focus {
 	color: var(--color-hover);
 	transition: all .2s ease;
 }
@@ -46,16 +59,4 @@ a:focus {
 svg {
   /* `currentColor` allows the color to inherit from the `color` attribute */
   fill: currentColor;
-}
-
-.video {
-  grid-area: video;
-  display: block;
-  text-align: center;
-}
-
-video {
-  width: 100%;
-  margin: 0 auto 2rem;
-  max-width: 38rem;
 }
