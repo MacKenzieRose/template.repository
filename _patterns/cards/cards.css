@@ -36,6 +36,11 @@ video {
   max-width: 36rem;
 }
 
+/* Style link highlight text */
+.linkstyle {
+	color: var(--color-accent);
+}
+
 /* Style embedded photographs */
 
 .card-photo-l {
@@ -48,7 +53,7 @@ video {
   .card-photo-l {
   object-fit: cover;
   height: 100%;
-  max-height: 500px;
+  max-height: 580px;
 }
 
 }
