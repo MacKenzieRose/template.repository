@@ -8,8 +8,37 @@ patterns:
     description: |
       The main site card, used to visually organize case studies on the site homepage.
     width: "20em"
+    fields:
+        - name: href
+          type: url
+          example: "#"
+        - name: image
+          type: string
+          example: "blue-starfish.jpg"
+        - name: alt
+          type: string
+          example: "This is a placeholder image of a starfish, towels, and bottles, on a blue table"
+        - name: casestudy
+          type: string
+          example: "Project Title"
+        - name: date
+          type: string
+          example: "Date"
   missing:
     title: "404"
     description: |
       The "content not found" card, used as a dynamic placeholder for website pages that are still under development.
     width: "20em"
+    fields:
+        - name: h1
+          type: string
+          example: "Page Under Construction"
+        - name: video
+          type: string
+          example: "light-isometric-loop.mp4"
+        - name: text
+          type: string
+          example: "Hey there! Thanks so much for visiting the future home of my portfolio site. This page isn't done being built yet, but don't worry; it's coming soon."
+        - name: boldtext
+          type: string
+          example: "Check back in a little bit!"

@@ -1,9 +1,9 @@
-<a href="#" class="project-card">
+<a href="{{include.href}}" class="project-card">
 	<div class="relative embed embed-1by1">
-		<img class="embed-item" src="/images/blue-starfish.jpg" alt="#">
+		<img class="embed-item" src="/images/{{include.image}}" alt="{{include.alt}}">
 		<div class="project-label absolute gutter-1-2">
-			<h3 class="text-upper mega push-0">Project Title</h3>
-			<p class="push">Date</p>
+			<h3 class="text-upper mega push-0">{{include.casestudy}}</h3>
+			<p class="push">{{include.date}}</p>
 		</div>
 	</div>
 </a>
