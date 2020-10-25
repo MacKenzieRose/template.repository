@@ -1,0 +1,13 @@
+title: "Navigations"
+description: |
+  Navigations function to help users visit various sections of the website, as well as link to related external content.
+
+patterns:
+  header:
+    title: "Header"
+    description: |
+      This is the primary navigation bar of the site, and allows users to navigate between the main site pages.
+  footer:
+    title: "Footer"
+    description: |
+      This is the secondary navigation bar of the site, and sits in the footer. It links to relevant SNS content for the MK Design brand.
