@@ -30,9 +30,6 @@ patterns:
       The "content not found" card, used as a dynamic placeholder for website pages that are still under development.
     width: "20em"
     fields:
-        - name: h1
-          type: string
-          example: "Page Under Construction"
         - name: video
           type: string
           example: "light-isometric-loop.mp4"
@@ -41,4 +38,16 @@ patterns:
           example: "Hey there! Thanks so much for visiting the future home of my portfolio site. This page isn't done being built yet, but don't worry; it's coming soon."
         - name: boldtext
           type: string
-          example: "Check back in a little bit!"
+          example: "Go back to the homepage?"
+  about:
+    title: "About Me"
+    description: |
+      This content is used to format the personal information section about MacKenzie.
+    width: "40em"
+    fields:
+      - name: email
+        type: string
+        example: "hello@kenzie.design"
+      - name: photo
+        type: string
+        example: "profile-pic.jpg"
