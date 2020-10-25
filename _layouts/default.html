@@ -9,28 +9,13 @@
   <link rel="icon" type="image/png" href="favicon-196.png">
   <link href="/css/main.css" rel="stylesheet">
 </head>
-<body>
+<body class="wrapper">
   <ul class="skip-links">
     <li><a href="#nav">Skip to navigation</a></li>
     <li><a href="#main">Skip to the main content</a></li>
   </ul>
 
-  <header>
-    <nav class="nav wrapper gutter-1-2 flex" id="nav" role="navigation">
-      <ul class="list-group-inline text-upper pad-t-1-2 push-1-2">
-        <li class="{% if page.highlight_nav == 'projects' %}current{% endif %} push-r-1-2"><a href="/index/">Projects</a></li>
-        <li class="{% if page.highlight_nav == 'about' %}current{% endif %} push-r-1-2"><a href="/about/">About</a></li>
-        <li class="right bold"><a href="/index/">MK Design</a></li>
-      </ul>
-    </nav>
-  </header>
+  {{content}}
 
-  <main class="wrapper" id="main" role="main">
-    {{content}}
-  </main>
-
-  <footer role="contentinfo">
-    <p class="micro push-1-2 text-center gutter">© MK Design 2020</p>
-  </footer>
 </body>
 </html>
