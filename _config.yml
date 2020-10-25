@@ -15,7 +15,7 @@ patternbot:
   rationales:
     colors.primary: |
       White serves as the default site colour for the light-mode backgrounds, which is interchangeable with its dark-mode counterpart. These solid colours provide high-contrast bases which support extremely readable text content.
-    colors.primary: |
+    colors.secondary: |
       These colours serve to form the default text colours, and are the inverse of the primary colour schemes found above.
     colors.accent: |
       These colors serve different functions:
