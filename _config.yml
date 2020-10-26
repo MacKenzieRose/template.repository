@@ -30,3 +30,13 @@ patternbot:
       Error is used to visually differentiate sections of a site that require user attention, including form errors.
     typefaces.primary: |
       The primary font for this site needed to be professional, clean, and reflective of standard practices in the digital sector. Thus, Helvetica was selected as the default font, due to its readability, its pervasiveness in technology, and its efficiency in terms of loading times.
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: _projects
+    values:
+      layout: project

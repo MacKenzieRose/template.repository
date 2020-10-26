@@ -20,14 +20,15 @@
 
 html {
 	font-family: var(--font-primary);
-	color: var(--color-secondary);}
+	color: var(--color-secondary);
+}
+
 
 mark {
 	background-color: var(--color-accent);
 	color: var(--color-primary);
 }
 
-h1,
 h2 {
 	color: var(--color-accent);
 }
@@ -76,4 +77,11 @@ svg {
 .skip-links button:focus {
   background-color: var(--color-hover);
   border-color: var(--color-hover);
+}
+
+/* Style secondary navigation in project files */
+.secondary-nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
