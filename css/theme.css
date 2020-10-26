@@ -29,8 +29,7 @@ mark {
 	color: var(--color-primary);
 }
 
-h2,
-h3 {
+h2 {
 	color: var(--color-accent);
 }
 
