@@ -36,9 +36,12 @@ create: |
   <p class="milli">The time from initial consultation to the final product was just under four weeks, and happily, the final product was well-received by both Jina and her audience.</p>
   <p class="push-0 milli">If you're interested in seeing this branding in action, or even in checking out Jina's content— she's fabulous!— you can <a href="https://jinakim.kr/">click here</a> to visit her personal site.</p>
 create-image: "/images/jina-kim/create.jpg"
+create-image-alt: "Dark mode Youtube page featuring Jina Kim's updated logo"
 finalproduct: |
   The finalized logo for Jina’s brand is rhythmic, feminine, and clean. The wave-like qualities make it visually consistent and calming, and resemble Jina’s oceanic hometown of Incheon.
   <p class="push-0 milli">We kept the logo simple, to make it more accessible for an international audience. It also meets the minimum width specifications for embroidery, which was an extremely important consideration for Jina’s clothing line.</p>
 finalproduct-image: "/images/jina-kim/logo.jpg"
+finalproduct-alt: "Final word mark logo"
 finalproduct-mockup1: "/images/jina-kim/website-mockup.png"
+mockup-alt: "Digital mockups of Jina Kim's new branding, featured on a variety of devices, including a MacBook, iPad, and iPhone."
 ---
