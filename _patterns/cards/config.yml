@@ -9,21 +9,11 @@ patterns:
       The main site card, used to visually organize case studies on the site homepage.
     width: "20em"
     fields:
-        - name: href
-          type: url
-          example: "#"
-        - name: image
-          type: string
-          example: "blue-starfish.jpg"
-        - name: alt
-          type: string
-          example: "This is a placeholder image of a starfish, towels, and bottles, on a blue table"
-        - name: casestudy
-          type: string
-          example: "Project Title"
-        - name: date
-          type: string
-          example: "Date"
+        - name: data
+          type: object
+          data:
+            source: "site.projects[0]"
+            type: Project
   missing:
     title: "404"
     description: |
