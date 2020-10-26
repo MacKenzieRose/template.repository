@@ -1,6 +1,6 @@
 ---
 href: "/projects/jina-kim/"
-image: "/images/blue-starfish.jpg"
+image: "/images/jina-kim/jina-kim.jpg"
 alt: "Jina Kim logo mockup"
 title: "MK Design • Jina Kim — Logo Rebranding"
 seo: "A logo rebranding case study focused on refreshing the branding for Jina Kim, a popular culture, fashion, and lifestyle content creator."
