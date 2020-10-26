@@ -10,4 +10,8 @@ patterns:
   footer:
     title: "Footer"
     description: |
-      This is the secondary navigation bar of the site, and sits in the footer. It links to relevant SNS content for the MK Design brand.
+      This is the footer navigation bar of the site, and sits (surprisingly) in the footer. It links to relevant SNS content for the MK Design brand.
+  secondary:
+    title: "Secondary Navigation"
+    description: |
+      This is the secondary navigation bar of the site, and is located in the project detail view. It navigates between project pages.
