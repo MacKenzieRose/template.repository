@@ -4,13 +4,13 @@ image: "/images/hjzm/hjzm.jpg"
 alt: "A.C.E Promotional poster preview"
 title: "MK Design • Choice — Promotional Posters"
 seo: "A print and digital marketing case study, focused on the strategic outreach of new users via social media."
-previousurl: "/projects/eaJ/"
+previousurl: "#"
 name: "Choice — Posters"
-nexturl: "/projects/jina-kim/"
+nexturl: "#"
 dates: "2020"
 brief: |
-  This project promoted the latest mini album release from musical group Adventure Calling Emotions (A.C.E) in early fall of 2020. 
-  <p class="milli push-0">The goal was to produce digital and print-ready advertisements, and was conducted in partnership with A.C.E’s fandom, Choice.</p>
+  <b>Q: What do you get when you cross Photoshop and fandom?</b> A: An inordinate amount of creative freedom, and potentially some pretty cool posters.
+  <p class="milli push-0">This project promoted the latest mini-album release from musical group Adventure Calling Emotions (A.C.E) in early fall of 2020. The goal was to produce digital and print-ready advertisements, and was conducted in partnership with A.C.E’s fandom, Choice.</p>
 research: |
   Data from an August 2020 survey of Choice was reviewed, and the following observations were made:
   <ul class="milli">
