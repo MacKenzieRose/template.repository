@@ -1,0 +1,54 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: MacKenzie <hello@kenzie.design>
+Site: https://kenzie.design
+GitHub: https://github.com/mackenzierose
+Instagram: @kenzie_design
+Twitter: @kenziedotdesign
+Location: Ottawa, ON
+
+---
+
+# THANKS
+
+## People
+
+The building of this site was possible thanks to the instruction, support, and encouragement of Thomas J Bradley <hey@thomasjbradley.ca>
+More from Thomas:
+  - Site: https://thomasjbradley.ca
+  - GitHub: https://github.com/thomasjbradley
+  - Twitter: @thomasjbradley
+  - Location: Ottawa, ON
+
+## Icons
+
+Thank you to GitHub, Instagram, and Twitter for providing their respective icons through their branding guidelines content.
+
+## Mockups
+
+"Responsive-showcase-presentation" – Pixeden
+"Web-Showcase-Project-Presentation" – Pixeden
+https://pixeden.com
+
+"MockUp_1" – Free PSD Templates
+https://free-psd-templates.com
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3.2.2
+- Git + GitHub
+- Jekyll
+- Markdown
+- jQuery
+
+## Hosting
+
+- Hover
+- Netlify
+- Let’s Encrypt
