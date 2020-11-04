@@ -1,10 +1,18 @@
 ---
-href: "/projects/jina-kim/"
-image: "/images/jina-kim/jina-kim.jpg"
-alt: "Jina Kim logo mockup"
-title: "Jina Kim — Logo Rebranding • MK Design"
-seo: "A logo rebranding case study focused on refreshing the branding for Jina Kim, a popular culture, fashion, and lifestyle content creator."
-keywords: "Branding, Digital, Logo, Embroidery, SNS, Graphic, Design"
+href: |
+  /projects/jina-kim/
+image: |
+  /images/jina-kim/jina-kim.jpg
+preview: |
+  /images/jina-kim/jina-kim.jpg
+alt: |
+  Jina Kim logo mockup
+title: |
+  Jina Kim — Logo Rebranding • MK Design
+seo: |
+  A logo rebranding case study focused on refreshing the branding for Jina Kim, a popular culture, fashion, and lifestyle content creator.
+keywords: |
+  Branding, Digital, Logo, Embroidery, SNS, Graphic, Design
 previousurl: "#"
 name: "Jina Kim — Branding"
 nexturl: "#"

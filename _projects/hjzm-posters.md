@@ -1,10 +1,18 @@
 ---
-href: "/projects/hjzm-posters/"
-image: "/images/hjzm/hjzm.jpg"
-alt: "A.C.E Promotional poster preview"
-title: "Choice — Promotional Posters • MK Design"
-seo: "A print and digital marketing case study, focused on the strategic outreach of new users via social media."
-keywords: "Marketing, Advertising, Print, Poster, Photoshop, Social Media, SNS, AR, Graphic, Design"
+href: |
+  /projects/hjzm-posters/
+image: |
+  /images/hjzm/hjzm.jpg
+preview: |
+  /images/hjzm/hjzm.jpg
+alt: |
+  A.C.E Promotional poster preview
+title: |
+  Choice — Promotional Posters • MK Design
+seo: |
+  A print and digital marketing case study, focused on the strategic outreach of new users via social media.
+keywords: |
+  Marketing, Advertising, Print, Poster, Photoshop, Social Media, SNS, AR, Graphic, Design
 previousurl: "#"
 name: "Choice — Posters"
 nexturl: "#"
