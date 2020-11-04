@@ -1,10 +1,18 @@
 ---
-href: "/projects/eaj/"
-image: "/images/eaj/eaj.jpg"
-alt: "eaJ branding preview"
-title: "eaJ — Rebranding Proposal • MK Design"
-seo: "A web case study, focused on creating an innovative digital identity for the eaJ music project, including logos and YouTube banners."
-keywords: "Branding, Digital, Banners, Logo, Graphic, Design"
+href: |
+  /projects/eaj/
+image: |
+  /images/eaj/eaj.jpg
+preview: |
+  /images/eaj/eaj.jpg
+alt: |
+  eaJ branding preview
+title: |
+  eaJ — Rebranding Proposal • MK Design
+seo: |
+  A web case study, focused on creating an innovative digital identity for the eaJ music project, including logos and YouTube banners.
+keywords: |
+  Branding, Digital, Banners, Logo, Graphic, Design
 previousurl: "#"
 name: "eaJ — Branding"
 nexturl: "#"
