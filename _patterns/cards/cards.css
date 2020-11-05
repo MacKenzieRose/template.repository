@@ -44,6 +44,7 @@ video {
 .card-photo-l {
   object-fit: cover;
   height: 100%;
+  max-height: 300px;
 }
 
 @media only screen and (min-width: 38em) {
