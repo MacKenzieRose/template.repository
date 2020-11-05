@@ -13,9 +13,9 @@ seo: |
   A logo rebranding case study focused on refreshing the branding for Jina Kim, a popular culture, fashion, and lifestyle content creator.
 keywords: |
   Branding, Digital, Logo, Embroidery, SNS, Graphic, Design
-previousurl: "#"
+previousurl: "/projects/hjzm-posters/"
 name: "Jina Kim — Branding"
-nexturl: "#"
+nexturl: "/projects/eaj/"
 dates: "2019"
 brief: |
   <b>The key to a successful rebranding is finding the delicate balance between where a brand has been, and the places it wants to go.</b>
@@ -47,8 +47,8 @@ create: |
 create-image: "/images/jina-kim/create.jpg"
 create-image-alt: "Dark mode Youtube page featuring Jina Kim's updated logo"
 finalproduct: |
-  The finalized logo was built to be rhythmic, feminine, and clean. The wave-like qualities resemble Jina’s oceanic hometown of Incheon, and have a very calming quality to them.
-  <p class="push-0 milli">We kept the logo simple, to make it accessible for her very international audience. The wordmark also meets the minimum width specifications for embroidery, which was an extremely important consideration for Jina’s clothing line.</p>
+  <b>The finalized logo was built to be rhythmic, feminine, and clean.</b> The wave-like qualities resemble Jina’s oceanic hometown of Incheon, and have a very calming quality to them.
+  <p class="push-0 milli">We kept the logo simple, to make it accessible for her very international audience. The wordmark also <b>meets the minimum width specifications for embroidery,</b> which was an extremely important consideration for Jina’s clothing line.</p>
 finalproduct-image: "/images/jina-kim/logo.jpg"
 finalproduct-alt: "Final word mark logo"
 finalproduct-mockup1: "/images/jina-kim/website-mockup.png"

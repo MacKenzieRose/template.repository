@@ -13,9 +13,9 @@ seo: |
   A print and digital marketing case study, focused on the strategic outreach of new users via social media.
 keywords: |
   Marketing, Advertising, Print, Poster, Photoshop, Social Media, SNS, AR, Graphic, Design
-previousurl: "#"
+previousurl: "/projects/eaj/"
 name: "Choice — Posters"
-nexturl: "#"
+nexturl: "/projects/jina-kim/"
 dates: "2020"
 brief: |
   <b>Q: What do you get when you cross Photoshop and fandom?</b> A: An inordinate amount of creative freedom, and potentially some pretty cool posters.
