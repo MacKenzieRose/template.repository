@@ -40,7 +40,7 @@ finalproduct: |
   The first concept features a <b>single line construction of the letterforms,</b> allowing them to be used easily in both shape and linework contexts. The banners also include minimalist <b>skylines of both LA and Seoul,</b> representing the two countries and cultures that have largely been responsible for shaping his experiences.
   <p class="milli"><b>Can you spot the rainstorm icon in the second logo?</b> (You might need to tilt your head!) It alludes to the pensive qualities of eaJ's sound, which are perfect for <b>nighttime and rainy day listenings.</b> The floral letterform also directly references his musical work, <i>Rose</i>, which is amongst his most well-known.</p>
   <p class="milli">The third logo concept is also deeply intertwined with music. <b>The J is built from a modified base clef</b>, and the two circles beside it can be constructed from the musical representations of the letters <b>A and E on a musical staff.</b></p>
-finalproduct-image: "/images/eaj/finalproduct-image2.png"
+finalproduct-image: "/images/eaj/finalproduct-image.png"
 finalproduct-alt: "Three banners that were submitted to the project, featuring each of the logos produced."
 finalproduct-mockup1: "/images/eaj/mockup.png"
 mockup-alt: "Mockups featuring laptop and desktop versions of all three banner styles."
