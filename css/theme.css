@@ -29,6 +29,11 @@ mark {
 	color: var(--color-primary);
 }
 
+blockquote {
+	border-top: 2px solid var(--color-accent);
+	border-bottom: 2px solid var(--color-accent);
+}
+
 h2 {
 	color: var(--color-accent);
 }
