@@ -12,7 +12,7 @@ keywords: |
   Branding, Digital, Logo, Embroidery, SNS, Graphic, Design
 previousurl: "/projects/hjzm-posters/"
 name: "Jina Kim — Branding"
-nexturl: "/projects/eaj/"
+nexturl: "/projects/people-like-me/"
 dates: "2019"
 named: jinakim
 finalproduct-image: "/images/jina-kim/logo.jpg"
