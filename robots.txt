@@ -1,6 +1,0 @@
-# robotstxt.org
-
-Sitemap: https://kenzie.design/sitemap.xml
-
-User-Agent: *
-Disallow:
