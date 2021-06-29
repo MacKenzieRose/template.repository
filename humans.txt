@@ -5,9 +5,6 @@
 Designer & Developer: MacKenzie <hello@kenzie.design>
 Site: https://kenzie.design
 GitHub: https://github.com/mackenzierose
-Instagram: @kenzie_design
-Twitter: @kenziedotdesign
-Location: Ottawa, ON
 
 ---
 
@@ -41,7 +38,7 @@ https://free-psd-templates.com
 
 ## Software
 
-- Sublime Text 3.2.2
+- Visual Studio Code
 - Git + GitHub
 - Jekyll
 - Markdown
