@@ -43,7 +43,7 @@ h2 {
 
 a {
 	color: var(--color-accent);
-	transition: all .4s ease-out;
+	transition: all .6s ease-in-out;
 }
 
 nav a {
@@ -53,8 +53,7 @@ nav a {
 
 .current a {
 	color: var(--color-accent);
-	font-weight: bold;
-	transition: all .4s ease-out;
+	transition: all .4s ease-in-out;
 }
 
 a:hover,

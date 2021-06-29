@@ -12,7 +12,7 @@ keywords: |
   Branding, Digital, Banners, Logo, Graphic, Design
 previousurl: "/projects/cate/"
 name: "eaJ — Branding"
-nexturl: "/projects/hjzm-posters/"
+nexturl: "/projects/jina-kim/"
 dates: "2020"
 named: eaj
 finalproduct-image: "/images/eaj/finalproduct-image.png"

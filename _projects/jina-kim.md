@@ -10,7 +10,7 @@ seo: |
   A logo rebranding case study focused on refreshing the branding for Jina Kim, a popular culture, fashion, and lifestyle content creator.
 keywords: |
   Branding, Digital, Logo, Embroidery, SNS, Graphic, Design
-previousurl: "/projects/hjzm-posters/"
+previousurl: "/projects/eaj/"
 name: "Jina Kim — Branding"
 nexturl: "/projects/people-like-me/"
 dates: "2019"
