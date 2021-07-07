@@ -1,0 +1,43 @@
+title: "Cards"
+description: |
+  Cards serve to quickly and easily organize information for users to parse. Examples of this include the standard layout for case studies.
+
+patterns: 
+  project:
+    title: "Project"
+    description: |
+      The main site card, used to visually organize case studies on the site homepage.
+    width: "20em"
+    fields:
+        - name: data
+          type: object
+          data:
+            source: "site.projects[0]"
+            type: Project
+  missing:
+    title: "404"
+    description: |
+      The "content not found" card, used as a dynamic placeholder for website pages that are still under development.
+    width: "20em"
+    fields:
+        - name: video
+          type: string
+          example: "light-isometric-loop.mp4"
+        - name: text
+          type: string
+          example: "Hey there! Thanks so much for visiting the future home of my portfolio site. This page isn't done being built yet, but don't worry; it's coming soon."
+        - name: boldtext
+          type: string
+          example: "Go back to the homepage?"
+  about:
+    title: "About Me"
+    description: |
+      This content is used to format the personal information section about MacKenzie.
+    width: "40em"
+    fields:
+      - name: email
+        type: string
+        example: "hello@kenzie.design"
+      - name: photo
+        type: string
+        example: "profile-pic.jpg"

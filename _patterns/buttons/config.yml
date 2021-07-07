@@ -1,0 +1,49 @@
+title: "Buttons"
+description: |
+  Buttons serve to call user attention to actionable items on a page. Internal button graphic and text elements should be minimized to keeps these components clear and easily readable for users.
+
+patterns: 
+  basic:
+    title: "Basic"
+    description: |
+      The default button style. It primarily functions to load additional project content, and style the navigation at smaller screen sizes.
+    fields:
+      - name: href
+        type: url
+        example: "#"
+      - name: text
+        type: string
+        example: "Click me"
+  accent:
+    title: "Accent"
+    description: |
+      This button is intended to draw a user's attention to the most important call-to-action on a page, or to submit forms; use sparingly.
+    fields:
+        - name: href
+          type: url
+          example: "#"
+        - name: text
+          type: string
+          example: "Or click me"
+  link:
+    title: "Link"
+    description: |
+      The default navigation style. It functions to help guide users in using internal site navigation functions, as well as the project filtering functions.
+    fields:
+        - name: href
+          type: url
+          example: "#"
+        - name: text
+          type: string
+          example: "No, click me!"
+  icon:
+    title: "Icon"
+    description: |
+      This button style is found primarily in the footer of the site, and frequently links to external site content.
+    fields:
+      - name: href
+        type: url
+        example: "#"
+      - name: id
+        type: string
+        example: "github"
